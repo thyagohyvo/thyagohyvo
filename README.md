@@ -1,5 +1,5 @@
 
-## Olá, pessoal! Sou Thyago Hyvo 🔮
+## Olá, pessoal!🔮
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-hyvo/)
 
