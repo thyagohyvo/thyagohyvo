@@ -1,6 +1,5 @@
 
-## Olá, pessoal! Sou Thyago Hyvo 🔮, o mestre da automação, o ninja dos pipelines, o super-herói dos servidores... bem, talvez não tão super-herói assim, mas estou aqui para falar sobre DevOps de uma forma que não seja tão entediante quanto esperado.
-
+## Olá, pessoal! Sou Thyago Hyvo 🔮
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-hyvo/)
 
