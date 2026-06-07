@@ -19,7 +19,7 @@ Projeto e mantenho ambientes de alta confiabilidade, com foco em visibilidade to
 ---
 
 ### 🔭 Stack Principal
- 
+
 <table>
   <tr>
     <td valign="top" width="180px">
@@ -56,20 +56,65 @@ Projeto e mantenho ambientes de alta confiabilidade, com foco em visibilidade to
     </td>
   </tr>
 </table>
---- |
+
+---
 
 ### 📌 Projetos em Destaque
 
-> Os projetos abaixo serão atualizados em breve com foco em monitoramento e observabilidade.
-
-<!--
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [projeto-monitoramento](#) | Descrição aqui | Zabbix · Grafana |
-| [otel-pipeline](#) | Descrição aqui | OpenTelemetry · Python |
-| [automacao-infra](#) | Descrição aqui | Python · Bash |
-| [hotspot_wifi_Mikrotik](#) | Captive portal sem senha via check-in | CSS · MikroTik |
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/grafana-sdwan-latency-card">
+        <b>📡 grafana-sdwan-latency-card</b>
+      </a><br/>
+      <sub>Painel customizado no Grafana para visualização de latência em links SD-WAN.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/grafana-zabbix-proxy-card">
+        <b>🖥️ grafana-zabbix-proxy-card</b>
+      </a><br/>
+      <sub>Card para monitoramento e status de proxies Zabbix integrado ao Grafana.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/Zabbix-Import-Hosts">
+        <b>📥 Zabbix-Import-Hosts</b>
+      </a><br/>
+      <sub>Automação para importação em massa de hosts no Zabbix via script Python.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/mapsvg">
+        <b>🗺️ mapsvg</b>
+      </a><br/>
+      <sub>Mapa SVG interativo para visualização topológica de redes e infraestrutura.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/Zabbix-Trigger-Dependency-Automation">
+        <b>⚙️ Zabbix-Trigger-Dependency-Automation</b>
+      </a><br/>
+      <sub>Script para criação automática de dependências entre triggers no Zabbix.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/thyagohyvo/zabbix-troubleshooting">
+        <b>🔧 zabbix-troubleshooting</b>
+      </a><br/>
+      <sub>Guia e scripts práticos para diagnóstico e resolução de problemas no Zabbix.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
