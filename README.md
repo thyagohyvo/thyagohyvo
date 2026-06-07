@@ -19,17 +19,44 @@ Projeto e mantenho ambientes de alta confiabilidade, com foco em visibilidade to
 ---
 
 ### 🔭 Stack Principal
-
-| Área | Tecnologias |
-|---|---|
-| **Monitoramento** | Zabbix · Grafana |
-| **Observabilidade** | OpenTelemetry · Traces · Logs · Metrics |
-| **Automação** | Python · Bash · Scripts |
-| **Redes** | MikroTik · RouterOS · Protocolos |
-| **Infraestrutura** | Linux · Shell · Servidores |
-| **DevOps** | Git · CI/CD · Pipelines |
-
----
+ 
+<table>
+  <tr>
+    <td valign="top" width="180px">
+      <b>Monitoramento</b><br/><br/>
+      <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+    <td valign="top" width="180px">
+      <b>Observabilidade</b><br/><br/>
+      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+    </td>
+    <td valign="top" width="180px">
+      <b>Automação</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="180px">
+      <b>Infraestrutura</b><br/><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td valign="top" width="180px">
+      <b>Redes</b><br/><br/>
+      <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/RouterOS-293239?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top" width="180px">
+      <b>DevOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
+--- |
 
 ### 📌 Projetos em Destaque
 
