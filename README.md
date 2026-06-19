@@ -12,6 +12,20 @@
 
 ---
 
+<div align="center">
+<!-- GitHub Stats — substitua "thyagohyvo" pelo seu username real -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=thyagohyvo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=4ade80&text_color=e6edf3&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagohyvo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&langs_count=6" />
+</div>
+<div align="center">
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=thyagohyvo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=4ade80&currStreakLabel=60a5fa&sideLabels=e6edf3&dates=8b949e" />
+</div>
+<div align="center">
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thyagohyvo&theme=github-compact&bg_color=0d1117&color=60a5fa&line=4ade80&point=4ade80&hide_border=true&area=true&area_color=60a5fa" />
+</div>
+
 ### Sobre
 
 Projeto e mantenho ambientes de alta confiabilidade, com foco em visibilidade total da infraestrutura usando ferramentas de monitoramento e observabilidade.
