@@ -14,7 +14,7 @@
 
 <div align="center">
 <!-- GitHub Stats — substitua "thyagohyvo" pelo seu username real -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=thyagohyvo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=4ade80&text_color=e6edf3&include_all_commits=true&count_private=true" />
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagohyvo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&langs_count=6" />
 </div>
 <div align="center">
