@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<!-- GitHub Stats — substitua "thyagohyvo" pelo seu username real -->
+<!-- GitHub Stats — substitua "thyagohyvo" pelo seu username real1 -->
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagohyvo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&langs_count=6" />
 </div>
