@@ -22,8 +22,8 @@
 <img src="https://streak-stats.demolab.com?user=thyagohyvo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=4ade80&currStreakLabel=60a5fa&sideLabels=e6edf3&dates=8b949e" />
 </div>
 <div align="center">
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thyagohyvo&theme=github-compact&bg_color=0d1117&color=60a5fa&line=4ade80&point=4ade80&hide_border=true&area=true&area_color=60a5fa" />
+<!-- Contribution Graph (custom, gerado pelo workflow — vermelho = fim de semana) -->
+<img src="https://raw.githubusercontent.com/thyagohyvo/thyagohyvo/main/assets/activity-graph.svg" />
 </div>
 
 ### Sobre
