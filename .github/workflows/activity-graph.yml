@@ -1,9 +1,9 @@
 name: Update Custom Activity Graph
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # todo dia às 06:00 UTC
-  workflow_dispatch: {}
+    - cron: '0 6 * * *'
 
 permissions:
   contents: write
@@ -18,10 +18,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Instalar dependências
+      - name: Instalar dependencias
         run: pip install requests matplotlib
 
-      - name: Gerar gráfico
+      - name: Gerar grafico
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: thyagohyvo
@@ -29,10 +29,10 @@ jobs:
           OUTPUT_PATH: assets/activity-graph.svg
         run: python scripts/generate_activity_graph.py
 
-      - name: Commit e push se houver mudanças
+      - name: Commit e push se houver mudancas
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/activity-graph.svg
-          git diff --staged --quiet || git commit -m "chore: atualizar gráfico de atividade"
+          git diff --staged --quiet || git commit -m "chore: atualizar grafico de atividade"
           git push
